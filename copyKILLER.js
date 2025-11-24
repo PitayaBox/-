@@ -2,7 +2,7 @@
 // @name         学习通复制粘贴
 // @namespace    火龙果纸箱
 // @version      1.0
-// @description  解除超星学习通的复制粘贴限制。
+// @description  解除超星学习通的复制粘贴限制
 // @match        *://*.chaoxing.com/*
 // @grant        none
 // ==/UserScript==
